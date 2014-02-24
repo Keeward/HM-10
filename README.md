@@ -1,7 +1,7 @@
 HM-10
 =====
 
-[JNHuaMao HM-10](https://raw2.github.com/Keeward/HM-10/master/images/hm-10.jpg)
+![JNHuaMao HM-10](https://raw2.github.com/Keeward/HM-10/master/images/hm-10.jpg)
 
 **HM-10** is designed and made by **JNHuaMao Technology Company**
 
@@ -17,6 +17,8 @@ Repository Contents
 
 * **/Hardware** - Library Eagle file (.lbr)
 * **/images** - miscellaneous images
+
+![HM-10 eagle library](https://raw2.github.com/Keeward/HM-10/master/images/eagle.jpg)
 
 License Information
 -------------------
