@@ -1,7 +1,7 @@
 HM-10
 =====
 
-[![JNHuaMao HM-10](https://raw2.github.com/Keeward/HM-10/master/images/hm-10.jpg)
+[JNHuaMao HM-10](https://raw2.github.com/Keeward/HM-10/master/images/hm-10.jpg)
 
 **HM-10** is designed and made by **JNHuaMao Technology Company**
 
