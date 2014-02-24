@@ -3,7 +3,8 @@ HM-10
 
 [![JNHuaMao HM-10](https://raw2.github.com/Keeward/HM-10/master/images/hm-10.jpg)
 
-**HM-10** by JNHuaMao Technology Company
+**HM-10** is designed and made by **JNHuaMao Technology Company**
+
 More info on http://www.jnhuamao.cn/
 
 Library created from information found in **Bluetooth 4.0 BLE module Datasheet** by **JNHuaMao Technology Company** which can be found here:
