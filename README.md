@@ -22,9 +22,11 @@ Repository Contents
 
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+These files are released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Distributed as-is; no warranty is given.
+
+HM-10 design is owned by **JNHuaMao Technology Company**.
 
 Keeward
 -------
